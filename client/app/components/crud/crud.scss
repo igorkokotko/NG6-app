@@ -1,0 +1,16 @@
+.crud {
+  color: grey;
+}
+.crud-table{
+    font-size: 20px;
+}
+span.error {
+    color: #800000;
+}
+input.ng-invalid.ng-touched {
+    border-color: #FA787E;
+  }
+
+input.ng-valid.ng-touched  {
+    border-color: #78FA89;
+  }
